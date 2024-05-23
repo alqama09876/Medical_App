@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medical Information App</string>
+    <string name="appName">Medical Info</string>
+    <string name="name">Disease Name</string>
+    <string name="description">Disease Description</string>
+    <string name="cause">Disease Cause</string>
+    <string name="symptoms">Disease Symptoms</string>
+    <string name="cname">Contact Name</string>
+    <string name="cnumber">Contact Number</string>
+</resources>
